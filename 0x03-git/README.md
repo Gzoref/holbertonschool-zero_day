@@ -13,3 +13,5 @@
 - How to merge branches
 - How to work as collaborators on a project
 - Which files should and which files should not ap# git project
+
+- Updating README file from Github interface!
